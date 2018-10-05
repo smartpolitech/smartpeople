@@ -1,0 +1,9 @@
+
+Component peoplecountesr
+{
+	Communications
+	{
+	};
+	language Python;
+};
+
